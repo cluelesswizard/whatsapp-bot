@@ -1,0 +1,23 @@
+{
+    "name": "whatsapp-bot",
+    "version": "1.0.0",
+    "description": "Whatsapp Bot - Node Js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "iamilham",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iamilham/whatsapp-bot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/iamilham/whatsapp-bot/issues"
+    },
+    "homepage": "https://github.com/iamilham/whatsapp-bot",
+    "license": "ISC",
+    "dependencies": {
+        "@open-wa/wa-automate": "^4.42.4"
+    }
+}
